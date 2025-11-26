@@ -1,0 +1,98 @@
+[
+  {
+    "id": "beef-lasagna",
+    "name": "Beef Lasagna",
+    "price": 90,
+    "description": "Layers of rich beef ragù, creamy béchamel, and perfectly cooked pasta. A Divine classic.",
+    "image": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=800",
+    "category": "mains"
+  },
+  {
+    "id": "chicken-alfredo",
+    "name": "Chicken Alfredo Pasta",
+    "price": 85,
+    "description": "Tender chicken breast with fettuccine in our signature creamy Alfredo sauce.",
+    "image": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a?w=800",
+    "category": "mains"
+  },
+  {
+    "id": "mediterranean-salad",
+    "name": "Mediterranean Salad",
+    "price": 65,
+    "description": "Fresh greens, feta cheese, olives, cucumbers, and tomatoes with olive oil dressing.",
+    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=800",
+    "category": "salads"
+  },
+  {
+    "id": "greek-salad",
+    "name": "Greek Salad Bowl",
+    "price": 70,
+    "description": "Authentic Greek salad with crisp vegetables, feta, and kalamata olives.",
+    "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800",
+    "category": "salads"
+  },
+  {
+    "id": "butter-chicken",
+    "name": "Butter Chicken",
+    "price": 95,
+    "description": "Tender chicken in a rich, creamy tomato-based curry sauce. Served with basmati rice.",
+    "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=800",
+    "category": "mains"
+  },
+  {
+    "id": "lamb-curry",
+    "name": "Slow-Cooked Lamb Curry",
+    "price": 110,
+    "description": "Aromatic slow-cooked lamb with traditional spices and fresh herbs.",
+    "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800",
+    "category": "mains"
+  },
+  {
+    "id": "quinoa-bowl",
+    "name": "Quinoa Power Bowl",
+    "price": 75,
+    "description": "Nutrient-rich quinoa with roasted vegetables, chickpeas, and tahini dressing.",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800",
+    "category": "salads"
+  },
+  {
+    "id": "mushroom-risotto",
+    "name": "Wild Mushroom Risotto",
+    "price": 88,
+    "description": "Creamy Arborio rice with wild mushrooms, parmesan, and truffle oil.",
+    "image": "https://images.unsplash.com/photo-1476124369491-c4f9d6c56e0a?w=800",
+    "category": "mains"
+  },
+  {
+    "id": "salmon-teriyaki",
+    "name": "Teriyaki Salmon",
+    "price": 125,
+    "description": "Grilled salmon glazed with house-made teriyaki sauce, served with jasmine rice.",
+    "image": "https://images.unsplash.com/photo-1580959375944-c630c23c506f?w=800",
+    "category": "mains"
+  },
+  {
+    "id": "caesar-salad",
+    "name": "Classic Caesar Salad",
+    "price": 60,
+    "description": "Crisp romaine lettuce, parmesan, croutons, and our creamy Caesar dressing.",
+    "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=800",
+    "category": "salads"
+  },
+  {
+    "id": "vegetable-stir-fry",
+    "name": "Asian Vegetable Stir-Fry",
+    "price": 72,
+    "description": "Colorful seasonal vegetables wok-tossed with ginger, garlic, and soy sauce.",
+    "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=800",
+    "category": "mains"
+  },
+  {
+    "id": "tiramisu",
+    "name": "Classic Tiramisu",
+    "price": 55,
+    "description": "Layers of coffee-soaked ladyfingers and mascarpone cream, dusted with cocoa.",
+    "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=800",
+    "category": "desserts"
+  }
+]
